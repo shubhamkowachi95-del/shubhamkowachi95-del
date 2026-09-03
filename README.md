@@ -1,4 +1,4 @@
-👋 Hi, I'm Shubham | @shubhamkowachi95-del
+👋 Hi, I'm Shubham
 
 🚀 Skill-Builder
 
