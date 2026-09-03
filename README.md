@@ -16,7 +16,7 @@ Languages: Python 3, Bash Scripting
 
 Platform: TryHackMe (practical labs)
 
-👾
+🎯PROGRESSING ....
 
 
 
