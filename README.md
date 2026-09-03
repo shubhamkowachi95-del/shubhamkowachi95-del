@@ -14,8 +14,11 @@ OS: Kali Linux / Ubuntu
 
 Languages: Python 3, Bash Scripting
 
-Platform: TryHackMe (Climbing the global ranks through practical labs)
+Platform: TryHackMe (practical labs)
 
-📫 Contact: shubhamkowachi95@gmail.com
+👾
+
+
+
 
 
